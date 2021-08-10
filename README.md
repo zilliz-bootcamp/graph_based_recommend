@@ -1,3 +1,5 @@
+:exclamation::exclamation: **This repo will no longer be maintained, please visit https://github.com/milvus-io/bootcamp** :exclamation: :exclamation:
+
 # Graph-based Recommendation System with Milvus
 
 This project uses graph convolutional neural networks to generate embeddings, and then uses Milvus retrieval to implement a recommendation system. It provides flask services and a front-end interface.
